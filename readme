@@ -1,0 +1,6 @@
+for install cv2
+pip install opencv-python
+
+
+for install tensorflow
+pip install tensorflow
